@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&multiline=true&width=435&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BE+;I'm+Tolu%2C+a+web+%26+mobile+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&multiline=true&width=435&height=60&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BE+;I'm+Tolu%2C+a+web+%26+mobile+developer)](https://git.io/typing-svg)
 
 <!--
 **to-dy/to-dy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
